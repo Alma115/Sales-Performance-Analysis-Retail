@@ -5,17 +5,17 @@
 <br>
 The dataset utilized comprises transactions from 2009 to 2012, encompassing a total of 5,500 raw data points, which include order statuses categorized as completed orders, returned orders, and canceled orders.
 
-The dataset provided for this project encompasses the following data.
-OrderID
-Order Status
-Customer
-Order Date
-Order Quantity
-Sales
-Discount Percentage
-Discount
-Product Category
-Product Subcategory
+The dataset provided for this project encompasses the following data.<br>
+-OrderID<br>
+-Order Status<br>
+-Customer<br>
+-Order Date<br>
+-Order Quantity<br>
+-Sales<br>
+-Discount Percentage<br>
+-Discount<br>
+-Product Category<br>
+-Product Subcategory
 
 ---
 ## Question
