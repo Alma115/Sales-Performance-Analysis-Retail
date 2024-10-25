@@ -22,10 +22,11 @@ Product Subcategory
 <br>
 Based on the project, the following questions were formulated: <br>
 
-Overall performance of DQLab Store from 2009 to 2012 regarding the number of orders and total sales completed.
-Overall performance of DQLab by product subcategory, to be compared between 2011 and 2012.
-The effectiveness and efficiency of promotions conducted to date can be assessed by calculating the overall burn rate of promotions executed each year.
-The effectiveness and efficiency of promotions conducted to date will be assessed by calculating the overall burn rate of promotions across sub-categories.
+1. Overall performance of DQLab Store from 2009 to 2012 regarding the number of orders and total sales completed.<br>
+2. Overall performance of DQLab by product subcategory, to be compared between 2011 and 2012.<br>
+3. The effectiveness and efficiency of promotions conducted to date can be assessed by calculating the overall burn rate of promotions executed each year.<br>
+4. The effectiveness and efficiency of promotions conducted to date will be assessed by calculating the overall burn rate of promotions across sub-categories.<br>
+
 ---
 ## Thankyou
 <br>
