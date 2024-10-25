@@ -1,4 +1,4 @@
-# Project Data Analysis For Retail: Sales Performance Anlysis
+# Project Data Analysis For Retail: Sales Performance Analysis
 
 ---
 ## Introduction
